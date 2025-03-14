@@ -6,11 +6,6 @@
 <div align="right">
     <img alt="Coding" width="400" src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif">
 </div>-->
-
-### 🌐 Socials
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/787monka)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/monkaaaaaaa)
-
 ### 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
