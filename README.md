@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-white?style=for-the-badge&logo=fastify&logoColor=black)
+![GraphQL](https://img.shields.io/badge/Graphql-%23DE33A6?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQlite](https://img.shields.io/badge/SQlite-white.svg?style=for-the-badge&logo=sqlite&logoColor=3D9FDA)
